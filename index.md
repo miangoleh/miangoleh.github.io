@@ -4,7 +4,7 @@ I am a *Computing Science* Master's student at Simon Fraser University. I do res
 
 Before I join SFU I got my bachelor degree in the field of Electrical Engineering-digital systems at Sharif University of Technology.
 
-[linkedin](https://www.linkedin.com/in/mahdi96/), [Google Scholar](https://scholar.google.ca/citations?user=mqJpOqkAAAAJ&hl=en)
+[linkedin](www.linkedin.com/in/miangoleh), [Google Scholar](https://scholar.google.ca/citations?user=mqJpOqkAAAAJ&hl=en)
 
 ## Research interests:
 * Computational Photography
