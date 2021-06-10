@@ -16,5 +16,5 @@ I got my bachelor degree in the field of Electrical Engineering -digital systems
 
 <img src="http://yaksoy.github.io/images/research/highresdepth.jpg" alt="drawing" width="10%" align="left"/> 
 
-**Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging** [Project page](https://github.com/compphoto/BoostingMonocularDepth)
+**Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging** [Project page](http://yaksoy.github.io/highresdepth/)
 
