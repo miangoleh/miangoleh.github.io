@@ -1,12 +1,10 @@
 # Hello!
 
-I am a *Computing Science* Master's student at Simon Fraser University. I do research at **Computational Photography Lab** lead by Prof. [Yağız Aksoy](http://yaksoy.github.io/)
+I am a *Computing Science* Master's student at Simon Fraser University. I do research at **Computational Photography Lab** under supervision of Prof. [Yağız Aksoy](http://yaksoy.github.io/).
 
-Before I join SFU I got my bachelor degree in the field of Electrical Engineering -digital systems at Sharif University of Technology.
+Before I join SFU I got my bachelor degree in the field of Electrical Engineering-digital systems at Sharif University of Technology.
 
-[linkedin](https://www.linkedin.com/in/mahdi96/)
-
-[Google Scholar](https://scholar.google.ca/citations?user=mqJpOqkAAAAJ&hl=en)
+[linkedin](https://www.linkedin.com/in/mahdi96/), [Google Scholar](https://scholar.google.ca/citations?user=mqJpOqkAAAAJ&hl=en)
 
 ## Research interests:
 * Computational Photography
