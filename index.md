@@ -16,8 +16,9 @@ Before I join SFU I got my bachelor degree in the field of Electrical Engineerin
 
 ## Publications
 <img src="http://yaksoy.github.io/images/research/highresdepth.jpg" alt="highresdepth" 
-width="20%" align="left">
-</img>
+width="20%" align="left" />
+<p>
+</p>
 
 *Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging*
 **S. Mahdi H. Miangoleh* **, Sebastian Dille*, Long Mai, Sylvain Paris, Yağız Aksoy  [Project page](http://yaksoy.github.io/highresdepth/), [PDF](http://yaksoy.github.io/papers/CVPR21-HighResDepth.pdf), [Github](https://github.com/compphoto/BoostingMonocularDepth)
