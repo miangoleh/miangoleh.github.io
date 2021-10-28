@@ -2,7 +2,7 @@
 
 I am a *Computing Science* Master's student at Simon Fraser University. I do research at **Computational Photography Lab** under supervision of Prof. [Yağız Aksoy](http://yaksoy.github.io/).
 
-Currently, I am doing an Internship at **Adobe Research** collaborating with Zoya Bylinskii, Eli Shechtman and Eric Kee.
+Currently, I am doing an Internship at **Adobe Research** collaborating with [Zoya Bylinskii](https://research.adobe.com/person/zoya-bylinskii/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/) and [Eric Kee](http://www.erickee.com/).
 
 Before I join SFU I got my bachelor degree in the field of Electrical Engineering-digital systems at Sharif University of Technology.
 
