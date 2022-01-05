@@ -8,7 +8,7 @@ Before I join SFU I got my bachelor degree in the field of Electrical Engineerin
 
 [linkedin](https://linkedin.com/in/miangoleh), [Google Scholar](https://scholar.google.ca/citations?user=mqJpOqkAAAAJ&hl=en), [Twitter](https://twitter.com/mahdi_miangoleh)
 
-[My CV](MY_CV.pdf)
+[My CV](./MY_CV.pdf)
 
 ## Research interests:
 * Computational Photography
