@@ -6,7 +6,9 @@ Currently, I am doing an Internship at **Adobe Research** collaborating with [Zo
 
 Before I join SFU I got my bachelor degree in the field of Electrical Engineering-digital systems at Sharif University of Technology.
 
-[linkedin](https://linkedin.com/in/miangoleh), [Google Scholar](https://scholar.google.ca/citations?user=mqJpOqkAAAAJ&hl=en), [Twitter](https://twitter.com/mahdi_miangoleh) [My CV](MY_CV.pdf)
+[linkedin](https://linkedin.com/in/miangoleh), [Google Scholar](https://scholar.google.ca/citations?user=mqJpOqkAAAAJ&hl=en), [Twitter](https://twitter.com/mahdi_miangoleh)
+
+[My CV](MY_CV.pdf)
 
 ## Research interests:
 * Computational Photography
