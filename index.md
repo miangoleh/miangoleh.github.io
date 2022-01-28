@@ -6,7 +6,7 @@ I did an Internship at **Adobe Research** collaborating with [Zoya Bylinskii](ht
 
 I got admitted to continue my studies toward a **Ph.D.** degree under supervision of Prof. [Yağız Aksoy](http://yaksoy.github.io/) starting **Fall 2022** at SFU. 
 
-Before I join SFU I got my bachelor degree in the field of Electrical Engineering-Digital Systems at Sharif University of Technology.
+Before I joined SFU I got my bachelor's degree in Electrical Engineering-Digital Systems at Sharif University of Technology.
 
 [linkedin](https://linkedin.com/in/miangoleh), [Google Scholar](https://scholar.google.ca/citations?user=mqJpOqkAAAAJ&hl=en), [Twitter](https://twitter.com/mahdi_miangoleh)
 
