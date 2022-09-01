@@ -31,8 +31,7 @@ width="20%" align="left" />](http://yaksoy.github.io/highresdepth/)
 
 [<img src="http://yaksoy.github.io/images/research/interactiveDepth.jpg" alt="interactiveeditdepth" 
 width="20%" align="left" />](http://yaksoy.github.io/interactiveDepth/)
-<br>SIGGRAPH 2022 POSTERS <br>
 *Interactive Editing of Monocular Depth*
-
+<br>SIGGRAPH 2022 POSTERS <br>
 Obumneme Stanley Dukor, **S. Mahdi H. Miangoleh**, Mahesh Kumar Krishna Reddy, Long Mai, Yağız Aksoy  [Project page](http://yaksoy.github.io/interactiveDepth/), [PDF](http://yaksoy.github.io/papers/SIG22a-interactiveDepth.pdf), [Web Application](https://depth-app.netlify.app/editor)
 
