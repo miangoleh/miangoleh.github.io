@@ -25,14 +25,14 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
 width="20%" align="left" />](http://yaksoy.github.io/highresdepth/)
 
 *Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging*
-
+CVPR 2021
 **S. Mahdi H. Miangoleh\***, Sebastian Dille\*, Long Mai, Sylvain Paris, Yağız Aksoy  [Project page](http://yaksoy.github.io/highresdepth/), [PDF](http://yaksoy.github.io/papers/CVPR21-HighResDepth.pdf), [Github](https://github.com/compphoto/BoostingMonocularDepth)
 
 
 
 [<img src="http://yaksoy.github.io/images/research/interactiveDepth.jpg" alt="interactiveeditdepth" 
 width="20%" align="left" />](http://yaksoy.github.io/interactiveDepth/)
-
+SIGGRAPH 2022 POSTERS
 *Interactive Editing of Monocular Depth*
 
 Obumneme Stanley Dukor, **S. Mahdi H. Miangoleh**, Mahesh Kumar Krishna Reddy, Long Mai, Yağız Aksoy  [Project page](http://yaksoy.github.io/interactiveDepth/), [PDF](http://yaksoy.github.io/papers/SIG22a-interactiveDepth.pdf), [Web Application](https://depth-app.netlify.app/editor)
