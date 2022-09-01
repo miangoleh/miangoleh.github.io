@@ -37,9 +37,8 @@ width="20%" align="left" />](http://yaksoy.github.io/highresdepth/)
 <br>
 <br>
 
-
 [<img src="http://yaksoy.github.io/images/research/interactiveDepth.jpg" alt="interactiveeditdepth" 
-width="20%" align="left" />] (http://yaksoy.github.io/interactiveDepth/)
+width="20%" align="left" />](http://yaksoy.github.io/interactiveDepth/)
 
 *Interactive Editing of Monocular Depth*
 
