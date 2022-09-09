@@ -2,7 +2,7 @@
 
 I am a *Computing Science* PhD student at Simon Fraser University(SFU). I do research at **Computational Photography Lab** under supervision of Prof. [Yağız Aksoy](http://yaksoy.github.io/).
 
-I got my Master's degree in Computing Science at SFU in **Summer 2022**. My MSc Thesis is on [*Boosting Monocular Depth Estimation to High Resolution*](http://yaksoy.github.io/highresdepth/).  
+I got my Master's degree in Computing Science at SFU in **Summer 2022**. My MSc Thesis is on [*Boosting Monocular Depth Estimation to High Resolution*](http://yaksoy.github.io/bmd-msc/).  
 
 I did an Internship at **Adobe Research** collaborating with [Zoya Bylinskii](https://research.adobe.com/person/zoya-bylinskii/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/) and [Eric Kee](http://www.erickee.com/) in **Fall 2021**.
 
