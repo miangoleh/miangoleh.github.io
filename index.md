@@ -35,3 +35,12 @@ width="20%" align="left" />](http://yaksoy.github.io/interactiveDepth/)
 
 Obumneme Stanley Dukor, **S. Mahdi H. Miangoleh**, Mahesh Kumar Krishna Reddy, Long Mai, Yağız Aksoy  [Project page](http://yaksoy.github.io/interactiveDepth/), [PDF](http://yaksoy.github.io/papers/SIG22a-interactiveDepth.pdf), [Web Application](https://depth-app.netlify.app/editor)
 
+
+## Theses
+
+[<img src="http://yaksoy.github.io/images/research/mahdimsc.jpg" alt="bmdthesis" 
+width="20%" align="left" />](http://yaksoy.github.io/bmd-msc/)
+*Boosting Monocular Depth Estimation to High Resolution*
+
+*Seyed Mahdi Hosseini Miangoleh* [Project page]([http://yaksoy.github.io/interactiveDepth/](http://yaksoy.github.io/bmd-msc/)), [PDF](https://sfu.ca/~smh31/masterthesis)
+
