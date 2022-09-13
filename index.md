@@ -40,8 +40,8 @@ Obumneme Stanley Dukor, **S. Mahdi H. Miangoleh**, Mahesh Kumar Krishna Reddy, L
 
 [<img src="http://yaksoy.github.io/images/research/mahdimsc.jpg" alt="bmdthesis" 
 width="20%" align="left" />](http://yaksoy.github.io/bmd-msc/)
-*Boosting Monocular Depth Estimation to High Resolution*
-MSc Thesis <br>
+*Boosting Monocular Depth Estimation to High Resolution*<br>
+MSc Thesis 
 
 **Seyed Mahdi Hosseini Miangoleh** [Project page](http://yaksoy.github.io/bmd-msc/), [PDF](https://sfu.ca/~smh31/masterthesis)
 
