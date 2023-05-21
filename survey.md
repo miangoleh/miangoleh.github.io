@@ -6,7 +6,7 @@ Thank you for participating in our Image Compositing Evaluation Survey! We are c
 Instructions:
 In this survey, we will present you with pairs of images, and your task is to select the image you believe demonstrates better compositing quality. Please carefully observe each pair of images and consider the overall integration, visual appeal, and realism of the composited region with the background. Choose the image that you believe achieves a more seamless and convincing composition.
 
-Survey Guidelines:
+## Survey Guidelines:
 
 Each question presents a pair of images.
 Select the image you believe exhibits better compositing quality.
