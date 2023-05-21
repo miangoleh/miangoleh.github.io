@@ -1,20 +1,18 @@
 # Image Compositing Evaluation Survey
 
 ## Introduction:
-Thank you for participating in our Image Compositing Evaluation Survey! We are conducting this survey to assess the quality of our image compositing method compared to others. Image compositing involves blending a composited region with a background to create a visually appealing and realistic final image. Your valuable feedback will help us understand how well our method performs in comparison to alternative approaches.
+Thank you for participating in our **Image Compositing** Evaluation Survey! We are conducting this survey to assess the quality of state of the art compositing methods. Image compositing involves blending a composited region with a background to create a visually appealing and realistic final image.
 
-Instructions:
-In this survey, we will present you with pairs of images, and your task is to select the image you believe demonstrates better compositing quality. Please carefully observe each pair of images and consider the overall integration, visual appeal, and realism of the composited region with the background. Choose the image that you believe achieves a more seamless and convincing composition.
+## Instructions:
+In this survey, each question presents a pair of composited images and a mask to emphasize the composited region, and your task is to select the image you believe demonstrates better compositing quality. Please carefully observe each pair of images and consider the overall integration, visual appeal, and realism of the composited region with the background. Choose the image that you believe achieves a more seamless and convincing composition.
 
-## Survey Guidelines:
+Here is an example of what you will see in the survey: 
+<img src="survey_example.jpg" alt="Alt Text" width="300" height="200">
 
-Each question presents a pair of images.
-Select the image you believe exhibits better compositing quality.
-Survey Completion:
+## Survey Completion:
 Upon completing the survey, we would like to express our sincerest gratitude for your contribution. Your input will help us refine and enhance our image compositing method, ultimately benefiting future applications in the field.
 
 Thank you once again for your participation. Let's begin the evaluation of image compositing quality!
-
 
 <html>
 <head>
