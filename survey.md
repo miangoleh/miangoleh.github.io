@@ -36,9 +36,9 @@ Thank you once again for your participation. Let's begin the evaluation of image
         function redirectRandomLink() {
             // Specify the list of links
             var links = [
-                "https://www.example1.com",
-                "https://www.example2.com",
-                "https://www.example3.com",
+                "https://www.surveymonkey.ca/r/NXSQDMR",
+                "https://www.surveymonkey.ca/r/NXSTFB6",
+                "https://www.surveymonkey.ca/r/NXS3982",
                 "https://www.surveymonkey.ca/r/NXSL2V3",
                 "https://www.surveymonkey.ca/r/NXSDGJV"
             ];
