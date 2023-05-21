@@ -56,7 +56,7 @@ Thank you once again for your participation. Let's begin the evaluation of image
     </script>
 </head>
 <body>
-    <my-button onclick="redirectRandomLink()">Click Here to Start the Survey</button>
+    <a class="my-button" onclick="redirectRandomLink()">Click Here to Start the Survey</a>
 </body>
 </html>
 
