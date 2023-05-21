@@ -19,6 +19,23 @@ Thank you once again for your participation. Let's begin the evaluation of image
 <html>
 <head>
     <title>Image Compositing Survey</title>
+    <style>
+    .my-button {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      text-align: center;
+      text-decoration: none;
+      background-color: #4CAF50;
+      color: #fff;
+      border-radius: 4px;
+      transition: background-color 0.3s;
+    }
+    
+    .my-button:hover {
+      background-color: #45a049;
+    }
+    </style>
     <script>
         function redirectRandomLink() {
             // Specify the list of links
@@ -39,7 +56,7 @@ Thank you once again for your participation. Let's begin the evaluation of image
     </script>
 </head>
 <body>
-    <button onclick="redirectRandomLink()">Click Here to Start the Survey</button>
+    <my-button onclick="redirectRandomLink()">Click Here to Start the Survey</button>
 </body>
 </html>
 
