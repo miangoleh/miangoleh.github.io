@@ -7,7 +7,8 @@ Thank you for participating in our **Image Compositing** Evaluation Survey! We a
 In this survey, each question presents a pair of composited images and a mask to emphasize the composited region, and your task is to select the image you believe demonstrates better compositing quality. Please carefully observe each pair of images and consider the overall integration, visual appeal, and realism of the composited region with the background. Choose the image that you believe achieves a more seamless and convincing composition.
 
 Here is an example of what you will see in the survey: 
-<img src="survey_example.jpg" alt="Alt Text" width="300" height="200">
+
+<img src="./survey_example.jpg" alt="Alt Text" width="300" height="200">
 
 ## Survey Completion:
 Upon completing the survey, we would like to express our sincerest gratitude for your contribution. Your input will help us refine and enhance our image compositing method, ultimately benefiting future applications in the field.
