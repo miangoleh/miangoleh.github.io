@@ -39,8 +39,8 @@ Thank you once again for your participation. Let's begin the evaluation of image
                 "https://www.example1.com",
                 "https://www.example2.com",
                 "https://www.example3.com",
-                "https://www.example4.com",
-                "https://www.example5.com"
+                "https://www.surveymonkey.ca/r/NXSL2V3",
+                "https://www.surveymonkey.ca/r/NXSDGJV"
             ];
 
             // Generate a random index within the range of available links
