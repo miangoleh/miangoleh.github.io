@@ -8,7 +8,7 @@ In this survey, each question presents a pair of composited images and a mask to
 
 Here is an example of what you will see in the survey: 
 
-<img src="./survey_example.jpg" alt="Alt Text" width="300" height="200">
+<img src="./survey_example.jpg" alt="Example" style="width: 300px; height: 200px;">
 
 ## Survey Completion:
 Upon completing the survey, we would like to express our sincerest gratitude for your contribution. Your input will help us refine and enhance our image compositing method, ultimately benefiting future applications in the field.
