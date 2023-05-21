@@ -6,7 +6,7 @@ Thank you for participating in our **Image Compositing** Evaluation Survey! We a
 ## Instructions:
 In this survey, you will be presented with pairs of composited images along with a mask that highlights the composited region, such as the box in the example below. Your objective is to choose the image that, in your opinion, showcases superior compositing quality. Please take your time to carefully examine each image pair and determine which one has the foreground object better matching the background environment.
 
-<img src="./survey_example.jpeg" alt="Example" style="width: 300px; height: 200px;">
+<img src="./survey_example.jpeg" alt="Example" style="width: 600px; height: 400px;">
 
 ## Survey Completion:
 
