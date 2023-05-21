@@ -1,17 +1,16 @@
 # Image Compositing Evaluation Survey
 
 ## Introduction:
-Thank you for participating in our **Image Compositing** Evaluation Survey! We are conducting this survey to assess the quality of state of the art compositing methods. Image compositing involves blending a composited region with a background to create a visually appealing and realistic final image.
+Thank you for participating in our **Image Compositing** Evaluation Survey! We are conducting this survey to assess the quality of state of the art compositing methods. 
 
 ## Instructions:
-In this survey, each question presents a pair of composited images and a mask to emphasize the composited region, and your task is to select the image you believe demonstrates better compositing quality. Please carefully observe each pair of images and consider the overall integration, visual appeal, and realism of the composited region with the background. Choose the image that you believe achieves a more seamless and convincing composition.
+Image compositing involves blending a composited region with a background to create a visually appealing and realistic final image.
 
-Here is an example of what you will see in the survey: 
+In this survey, you will be presented with pairs of composited images along with a mask that highlights the composited region (refer to the example below). Your objective is to choose the image that, in your opinion, showcases superior compositing quality. Take your time to carefully examine each image pair and determine which one appears to better match the background environment.
 
-<img src="./survey_example.jpg" alt="Example" style="width: 300px; height: 200px;">
+<img src="./survey_example.jpeg" alt="Example" style="width: 300px; height: 200px;">
 
 ## Survey Completion:
-Upon completing the survey, we would like to express our sincerest gratitude for your contribution. Your input will help us refine and enhance our image compositing method, ultimately benefiting future applications in the field.
 
 Thank you once again for your participation. Let's begin the evaluation of image compositing quality!
 
