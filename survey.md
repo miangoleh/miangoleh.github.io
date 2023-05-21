@@ -1,12 +1,6 @@
-Hello!
-
-
-Description
-
-
 <html>
 <head>
-    <title>Random Link Redirect</title>
+    <title>Image Compositing Survey</title>
     <script>
         function redirectRandomLink() {
             // Specify the list of links
@@ -27,8 +21,8 @@ Description
     </script>
 </head>
 <body>
-    <h1>Random Link Redirect</h1>
-    <button onclick="redirectRandomLink()">Redirect Me!</button>
+    <h1>Hello! Here is the Description</h1>
+    <button onclick="redirectRandomLink()">Click Here to Start the Survey</button>
 </body>
 </html>
 
