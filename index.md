@@ -45,7 +45,3 @@ MSc Thesis
 
 **Seyed Mahdi Hosseini Miangoleh** [Project page](http://yaksoy.github.io/bmd-msc/), [PDF](https://sfu.ca/~smh31/masterthesis)
 
-
-<a href="survey.md">Survey</a>
-
-
