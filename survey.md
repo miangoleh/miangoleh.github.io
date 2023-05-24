@@ -3,13 +3,33 @@
 ## Introduction:
 Thank you for participating in our **Image Compositing** Evaluation Survey! The survey is now closed.  
 
-Redirecting to home page in 2 seconds. 
 <html>
 <head>
 <meta charset="UTF-8">
-<meta http-equiv="refresh" content="3;URL=https://miangoleh.github.io/">
+<script>
+  var countdown = 5; // Set the countdown time in seconds
+
+  // Function to update the countdown timer
+  function updateCountdown() {
+    var countdownElement = document.getElementById('countdown');
+    countdown--;
+    countdownElement.innerText = countdown;
+
+    if (countdown <= 0) {
+      clearInterval(timer);
+      window.location.href = 'https://miangoleh.github.io/'; // Replace with your desired URL
+    }
+  }
+
+  // Start the countdown timer
+  var timer = setInterval(updateCountdown, 1000); // Update every 1 second
+</script>
 </head>
+<body>
+<p>Redirecting to main page in <span id="countdown">5</span> seconds...</p>
+</body>
 </html>
+
 
 <!-- ## Instructions:
 In this survey, you will be presented with pairs of composited images along with a mask that highlights the composited region, such as the box in the example below. Your objective is to choose the image that, in your opinion, showcases superior compositing quality. Please take your time to carefully examine each image pair and determine which one has **the foreground object better matching the background environment**.
