@@ -3,7 +3,7 @@
 ## Introduction:
 Thank you for participating in our **Image Compositing** Evaluation Survey! The survey is now closed.  
 
-<!DOCTYPE html>
+Redirecting to home page in 2 seconds. 
 <html>
 <head>
 <meta charset="UTF-8">
