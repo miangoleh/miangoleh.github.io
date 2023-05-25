@@ -1,7 +1,6 @@
-# Image Compositing Evaluation Survey
+# The survey is now closed
 
-## Introduction:
-Thank you for participating in our **Image Compositing** Evaluation Survey! The survey is now closed.  
+## Thank you for participating in our Image Compositing Evaluation Survey
 
 <html>
 <head>
