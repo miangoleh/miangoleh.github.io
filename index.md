@@ -29,6 +29,7 @@ width="20%" align="left" />](http://yaksoy.github.io/realisticEditing/)
 **S. Mahdi H. Miangoleh**, Zoya Bylinskii, Eric Kee, Eli Shechtman, Yağız Aksoy  [Project page](http://yaksoy.github.io/realisticEditing/), [PDF](), [Github](https://github.com/compphoto/RealisticImageEnhancement)
 
 
+
 [<img src="http://yaksoy.github.io/images/research/highresdepth.jpg" alt="highresdepth" 
 width="20%" align="left" />](http://yaksoy.github.io/highresdepth/)
 *Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging*
