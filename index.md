@@ -21,6 +21,14 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
 "Experienced in embedded systems and front-end application development"
 
 ## Publications
+
+[<img src="./realisticedit_logo.jpg" alt="RealisticEditing" 
+width="20%" align="left" />](http://yaksoy.github.io/realisticEditing/)
+*Realistic Saliency Guided Image Enhancement*
+
+**S. Mahdi H. Miangoleh**, Zoya Bylinskii, Eric Kee, Eli Shechtman, Yağız Aksoy  [Project page](http://yaksoy.github.io/realisticEditing/), [PDF](), [Github](https://github.com/compphoto/RealisticImageEnhancement)
+
+
 [<img src="http://yaksoy.github.io/images/research/highresdepth.jpg" alt="highresdepth" 
 width="20%" align="left" />](http://yaksoy.github.io/highresdepth/)
 *Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging*
