@@ -27,6 +27,7 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
     </div>
     <div class="publication-content">
       <p><strong>Realistic Saliency Guided Image Enhancement</strong></p>
+      <p>Proc CVPR 2023</p>
       <p><em>S. Mahdi H. Miangoleh</em>, Zoya Bylinskii, Eric Kee, Eli Shechtman, Yağız Aksoy</p>
       <p>
         <a href="http://yaksoy.github.io/realisticEditing/">Project page</a>,
@@ -42,6 +43,7 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
     </div>
     <div class="publication-content">
       <p><strong>Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging</strong></p>
+      <p>Proc CVPR 2021</p>
       <p><em>S. Mahdi H. Miangoleh*</em>, Sebastian Dille*, Long Mai, Sylvain Paris, Yağız Aksoy</p>
       <p>
         <a href="http://yaksoy.github.io/highresdepth/">Project page</a>,
@@ -57,6 +59,7 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
     </div>
     <div class="publication-content">
       <p><strong>Interactive Editing of Monocular Depth</strong></p>
+      <p>Proc SIGGRAPH POSTER 2022</p>
       <p>Obumneme Stanley Dukor, <em>S. Mahdi H. Miangoleh</em>, Mahesh Kumar Krishna Reddy, Long Mai, Yağız Aksoy</p>
       <p>
         <a href="http://yaksoy.github.io/interactiveDepth/">Project page</a>,
@@ -67,6 +70,27 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
   </div>
   
   <!-- Repeat the above code for the other two publication items -->
+
+  
+
+## Theses
+
+  <div class="publication-item">
+    <div class="image-container">
+      <img src="http://yaksoy.github.io/images/research/mahdimsc.jpg" alt="bmdthesis" class="publication-image" />
+    </div>
+    <div class="publication-content">
+      <p><strong>Boosting Monocular Depth Estimation to High Resolution</strong></p>
+      <p>MSc Thesis</p>
+      <p<em>Seyed Mahdi Hosseini Miangoleh</em></p>
+      <p>
+        <a href="http://yaksoy.github.io/bmd-msc/">Project page</a>,
+        <a href="https://sfu.ca/~smh31/masterthesis">PDF</a>
+      </p>
+    </div>
+  </div>
+
+
   
   <style>
     .publication-item {
@@ -82,7 +106,7 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
     }
   
     .publication-image {
-      width: 100%;
+      width: 50%;
       border-radius: 50%;
       overflow: hidden;
     }
@@ -94,13 +118,3 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
     }
 
   </style>
-  
-
-## Theses
-
-[<img src="http://yaksoy.github.io/images/research/mahdimsc.jpg" alt="bmdthesis" 
-width="20%" align="left" />](http://yaksoy.github.io/bmd-msc/)
-*Boosting Monocular Depth Estimation to High Resolution*<br>
-MSc Thesis 
-
-**Seyed Mahdi Hosseini Miangoleh** [Project page](http://yaksoy.github.io/bmd-msc/), [PDF](https://sfu.ca/~smh31/masterthesis)
