@@ -21,26 +21,80 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
 "Experienced in embedded systems and front-end application development"
 
 ## Publications
-|
-[<img src="http://yaksoy.github.io/images/research/realisticEditing.jpg" alt="RealisticEditing" width="20%" align="left" />](http://yaksoy.github.io/realisticEditing/)
-*Realistic Saliency Guided Image Enhancement*
+<div class="publication-item">
+    <div class="image-container">
+      <img src="http://yaksoy.github.io/images/research/realisticEditing.jpg" alt="RealisticEditing" class="publication-image" />
+    </div>
+    <div class="publication-content">
+      <p><strong>Realistic Saliency Guided Image Enhancement</strong></p>
+      <p><em>S. Mahdi H. Miangoleh</em>, Zoya Bylinskii, Eric Kee, Eli Shechtman, Yağız Aksoy</p>
+      <p>
+        <a href="http://yaksoy.github.io/realisticEditing/">Project page</a>,
+        <a href="http://yaksoy.github.io/papers/CVPR23-RealisticEditing.pdf">PDF</a>,
+        <a href="https://github.com/compphoto/RealisticImageEnhancement">Github</a>
+      </p>
+    </div>
+  </div>
+  
+  <div class="publication-item">
+    <div class="image-container">
+      <img src="http://yaksoy.github.io/images/research/highresdepth.jpg" alt="highresdepth" class="publication-image" />
+    </div>
+    <div class="publication-content">
+      <p><strong>Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging</strong></p>
+      <p><em>S. Mahdi H. Miangoleh*</em>, Sebastian Dille*, Long Mai, Sylvain Paris, Yağız Aksoy</p>
+      <p>
+        <a href="http://yaksoy.github.io/highresdepth/">Project page</a>,
+        <a href="http://yaksoy.github.io/papers/CVPR21-HighResDepth.pdf">PDF</a>,
+        <a href="https://github.com/compphoto/BoostingMonocularDepth">Github</a>
+      </p>
+    </div>
+  </div>
+  
+  <div class="publication-item">
+    <div class="image-container">
+      <img src="http://yaksoy.github.io/images/research/interactiveDepth.jpg" alt="interactiveeditdepth" class="publication-image" />
+    </div>
+    <div class="publication-content">
+      <p><strong>Interactive Editing of Monocular Depth</strong></p>
+      <p>Obumneme Stanley Dukor, <em>S. Mahdi H. Miangoleh</em>, Mahesh Kumar Krishna Reddy, Long Mai, Yağız Aksoy</p>
+      <p>
+        <a href="http://yaksoy.github.io/interactiveDepth/">Project page</a>,
+        <a href="http://yaksoy.github.io/papers/SIG22a-interactiveDepth.pdf">PDF</a>,
+        <a href="https://depth-app.netlify.app/editor">Web Application</a>
+      </p>
+    </div>
+  </div>
+  
+  <!-- Repeat the above code for the other two publication items -->
+  
+  <style>
+    .publication-item {
+      display: flex;
+      margin-bottom: 20px;
+    }
+  
+    .image-container {
+      width: 20%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .publication-image {
+      width: 100%;
+      border-radius: 50%;
+      overflow: hidden;
+    }
+  
+    .publication-content {
+      width: 80%;
+      justify-content: left;
+      align-items: left;
+    }
 
-**S. Mahdi H. Miangoleh**, Zoya Bylinskii, Eric Kee, Eli Shechtman, Yağız Aksoy  [Project page](http://yaksoy.github.io/realisticEditing/), [PDF](http://yaksoy.github.io/papers/CVPR23-RealisticEditing.pdf), [Github](https://github.com/compphoto/RealisticImageEnhancement)
-|
-|
-[<img src="http://yaksoy.github.io/images/research/highresdepth.jpg" alt="highresdepth" 
-width="20%" align="left" />](http://yaksoy.github.io/highresdepth/)
-*Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging*
-
-**S. Mahdi H. Miangoleh\***, Sebastian Dille\*, Long Mai, Sylvain Paris, Yağız Aksoy  [Project page](http://yaksoy.github.io/highresdepth/), [PDF](http://yaksoy.github.io/papers/CVPR21-HighResDepth.pdf), [Github](https://github.com/compphoto/BoostingMonocularDepth)
-|
-|
-[<img src="http://yaksoy.github.io/images/research/interactiveDepth.jpg" alt="interactiveeditdepth" 
-width="20%" align="left" />](http://yaksoy.github.io/interactiveDepth/)
-*Interactive Editing of Monocular Depth*
-
-Obumneme Stanley Dukor, **S. Mahdi H. Miangoleh**, Mahesh Kumar Krishna Reddy, Long Mai, Yağız Aksoy  [Project page](http://yaksoy.github.io/interactiveDepth/), [PDF](http://yaksoy.github.io/papers/SIG22a-interactiveDepth.pdf), [Web Application](https://depth-app.netlify.app/editor)
-|
+  </style>
+  
 
 ## Theses
 
