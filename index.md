@@ -29,6 +29,7 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
 
 
 
+
 [<img src="http://yaksoy.github.io/images/research/highresdepth.jpg" alt="highresdepth" 
 width="20%" align="left" />](http://yaksoy.github.io/highresdepth/)
 *Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging*
