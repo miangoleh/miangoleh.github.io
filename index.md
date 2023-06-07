@@ -23,7 +23,9 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
 ## Publications
 <div class="publication-item">
     <div class="image-container">
-      <img src="http://yaksoy.github.io/images/research/realisticEditing.jpg" alt="RealisticEditing" class="publication-image" />
+      <a href="http://yaksoy.github.io/realisticEditing/">
+        <img src="http://yaksoy.github.io/images/research/realisticEditing.jpg" alt="RealisticEditing" class="publication-image" />
+      </a>
     </div>
     <div class="publication-content">
       <p><strong>Realistic Saliency Guided Image Enhancement</strong></p>
@@ -39,7 +41,9 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
   
   <div class="publication-item">
     <div class="image-container">
+      <a href="http://yaksoy.github.io/highresdepth/">
       <img src="http://yaksoy.github.io/images/research/highresdepth.jpg" alt="highresdepth" class="publication-image" />
+      </a>
     </div>
     <div class="publication-content">
       <p><strong>Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging</strong></p>
@@ -55,7 +59,9 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
   
   <div class="publication-item">
     <div class="image-container">
+      <a href="http://yaksoy.github.io/interactiveDepth/">
       <img src="http://yaksoy.github.io/images/research/interactiveDepth.jpg" alt="interactiveeditdepth" class="publication-image" />
+      </a>
     </div>
     <div class="publication-content">
       <p><strong>Interactive Editing of Monocular Depth</strong></p>
@@ -77,7 +83,9 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
 
   <div class="publication-item">
     <div class="image-container">
+      <a href="http://yaksoy.github.io/bmd-msc/">
       <img src="http://yaksoy.github.io/images/research/mahdimsc.jpg" alt="bmdthesis" class="publication-image" />
+      </a>
     </div>
     <div class="publication-content">
       <p><strong>Boosting Monocular Depth Estimation to High Resolution</strong></p>
@@ -120,7 +128,7 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
     }
     
     .publication-content p {
-    margin-bottom: 2px; /* Adjust the margin-bottom value as needed */
+    margin-bottom: 4px; /* Adjust the margin-bottom value as needed */
     }
 
   </style>
