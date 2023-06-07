@@ -106,15 +106,16 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
     }
   
     .publication-image {
-      width: 50%;
+      width: 100%;
       border-radius: 50%;
       overflow: hidden;
     }
   
     .publication-content {
-      width: 80%;
+      width: 100%;
       justify-content: left;
       align-items: left;
+      line-height: 1;   
     }
 
   </style>
