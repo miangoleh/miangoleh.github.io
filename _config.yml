@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: S. Mahdi H. Miangoleh
 description: "mahdi_miangoleh ατ sfu δøτ ca" 
-logo: ./mypic2.jpg
+logo: ./mypic2.JPG
 google_analytics: UA-199229816-1
