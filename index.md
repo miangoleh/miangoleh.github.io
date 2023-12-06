@@ -21,6 +21,25 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
 ## Publications
 <div class="publication-item">
     <div class="image-container">
+      <a href="https://yaksoy.github.io/intrinsicCompositing/">
+        <img src="https://yaksoy.github.io/images/research/intrinsicCompositing.jpg" alt="IntrinsicCompositing" class="publication-image" />
+      </a>
+    </div>
+    <div class="publication-content">
+      <p><strong>Intrinsic Harmonization for Illumination-Aware Compositing</strong></p>
+      <p>Proc SIGGRAPH Asia, 2023</p>
+      <p>Chris Careaga<strong>S. Mahdi H. Miangoleh</strong>, Yağız Aksoy</p>
+      <p>
+        <a href="https://yaksoy.github.io/intrinsicCompositing/">Project page</a>,
+        <a href="https://yaksoy.github.io/papers/SigAsia23-IntrinsicCompositing.pdf">PDF</a>,
+        <a href="https://github.com/compphoto/IntrinsicCompositing">Github</a>
+      </p>
+    </div>
+  </div>
+
+
+<div class="publication-item">
+    <div class="image-container">
       <a href="http://yaksoy.github.io/realisticEditing/">
         <img src="http://yaksoy.github.io/images/research/realisticEditing.jpg" alt="RealisticEditing" class="publication-image" />
       </a>
