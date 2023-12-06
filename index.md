@@ -27,7 +27,7 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
     </div>
     <div class="publication-content">
       <p><strong>Intrinsic Harmonization for Illumination-Aware Compositing</strong></p>
-      <p>Proc SIGGRAPH Asia, 2023</p>
+      <p>Proc SIGGRAPH Asia 2023</p>
       <p>Chris Careaga, <strong>S. Mahdi H. Miangoleh</strong>, Yağız Aksoy</p>
       <p>
         <a href="https://yaksoy.github.io/intrinsicCompositing/">Project page</a>,
