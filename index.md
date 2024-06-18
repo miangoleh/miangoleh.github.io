@@ -20,6 +20,25 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
 ## Publications
 <div class="publication-item">
     <div class="image-container">
+      <a href="https://yaksoy.github.io/sidepth/">
+        <img src="https://yaksoy.github.io/images/research/sidepth" alt="SIDepth" class="publication-image" />
+      </a>
+    </div>
+    <div class="publication-content">
+      <p><strong>Scale-Invariant Monocular Depth Estimation via SSI Depth</strong></p>
+      <p>Proc SIGGRAPH 2024</p>
+      <p><strong>S. Mahdi H. Miangoleh</strong>, Mahesh Reddy, Yağız Aksoy</p>
+      <p>
+        <a href="https://yaksoy.github.io/sidepth/">Project page</a>,
+        <a href="https://yaksoy.github.io/papers/SIG24-SI-Depth.pdf">PDF</a>,
+        <a href="https://github.com/compphoto/sidepth">Github</a>
+      </p>
+    </div>
+  </div>
+
+
+<div class="publication-item">
+    <div class="image-container">
       <a href="https://yaksoy.github.io/intrinsicCompositing/">
         <img src="https://yaksoy.github.io/images/research/intrinsicCompositing.jpg" alt="IntrinsicCompositing" class="publication-image" />
       </a>
