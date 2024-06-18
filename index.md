@@ -21,7 +21,7 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
 <div class="publication-item">
     <div class="image-container">
       <a href="https://yaksoy.github.io/sidepth/">
-        <img src="https://yaksoy.github.io/images/research/sidepth" alt="SIDepth" class="publication-image" />
+        <img src="https://yaksoy.github.io/images/research/sidepth.jpg" alt="SIDepth" class="publication-image" />
       </a>
     </div>
     <div class="publication-content">
