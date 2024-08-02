@@ -19,9 +19,11 @@ Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital 
 
 ## News
 
-* I started an Internship at **Bosch AI** under [Yuliang Guo](https://yuliangguo.github.io/)! (May 2023)
-* I graduated with a Master's degree in Computing Science from Simon Fraser Univerisity ([Thesis](http://yaksoy.github.io/bmd-msc/))! I will be continuing my studies toward a PhD degree under Supervision of Prof [Yağız Aksoy](http://yaksoy.github.io/). (August 2022)
-* I started an Internship at **Adobe Research** working with [Zoya Bylinskii](http://zoyathinks.com/)! (August 2021)
+I started an Internship at **Bosch AI** under [Yuliang Guo](https://yuliangguo.github.io/)! (May 2023)
+
+I graduated with a Master's degree in Computing Science from Simon Fraser Univerisity ([Thesis](http://yaksoy.github.io/bmd-msc/))! I will be continuing my studies toward a PhD degree under Supervision of Prof [Yağız Aksoy](http://yaksoy.github.io/). (August 2022)
+
+I started an Internship at **Adobe Research** working with [Zoya Bylinskii](http://zoyathinks.com/)! (August 2021)
 
 
 ## Publications
