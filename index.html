@@ -37,9 +37,9 @@ body {
 }
 
 .profile-image {
-    flex: 1.1;
-    width: 40%;
-    height: 40%;
+    flex: 1;
+    width: 100%;
+    height: 100%;
 }
 
 .profile-pic {
@@ -66,18 +66,20 @@ body {
 }
 
 .image-container {
-    width: 25%;
+    flex:1;
+    width: 100%;
     margin-right: 20px;
+}
+
+.publication-content {
+    flex:4;
+    width: 100%;
+    text-align: left;
 }
 
 .publication-image {
     width: 100%;
     border-radius: 30%;
-}
-
-.publication-content {
-    width: 100%;
-    text-align: left;
 }
 
 
@@ -140,6 +142,13 @@ a:visited:hover {
     .profile-text {
         order: 2; /* Move text below the image */
     }
+
+    .publication-content {
+    flex:2;
+    width: 100%;
+    text-align: left;
+}
+
 }
 
 </style>
