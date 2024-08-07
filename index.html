@@ -98,29 +98,34 @@ li {
     font-size: 14px;
 }
 
-a {
-    font-size: 14px;
-}
-
-
 /* Style for .type2 */
 strong.type2 {
     font-weight: 600
 }
 
 strong.pubtitle {
-    color: darkblue;
+    color: navy;
 }
 
-
 a {
+    font-size: 14px;
     color: #0000EE; /* Change this to the color you prefer */
 }
 
-/* Override the visited link color to be the same as unvisited */
 a:visited {
     color: #0000EE; /* Same color as the unvisited link */
 }
+/* This will style the links when hovered over */
+a:hover {
+    color: orange; /* Hover link color */
+}
+
+a:visited:hover {
+    color: orange; /* Hover link color */
+}
+
+/* Override the visited link color to be the same as unvisited */
+
 
 @media (max-width: 768px) {
     .profile {
