@@ -6,107 +6,95 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mahdi Miangoleh - Research</title>
     <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            margin: 0;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
-        .content {
-            width: 80%;
-            max-width: 800px;
-        }
+.content {
+    width: 90%;
+    max-width: 800px;
+}
 
-        .profile {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 20px;
-        }
+.profile {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
 
-        .profile img {
-            width: 200px;
-            height: 200px;
-            border-radius: 50%;
-        }
+.profile-text {
+    flex: 1;
+    margin-right: 20px;
+    margin-left: 20px;
+}
 
-        .profile-text {
-            margin-right: 20px;
-        }
+.profile-image {
+    width: 35%;
+    height: 35%;
+}
 
-        .profile-links {
-            text-align: center;
-            margin-top: 10px;
-        }
+.profile-pic {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
 
-        .publication-item {
-            display: flex;
-            flex-direction: column;
-            margin-bottom: 20px;
-        }
+.profile-links {
+    text-align: center;
+    margin-top: 10px;
+}
 
-        .image-container {
-            width: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin-bottom: 10px;
-        }
+.publication-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
 
-        .publication-image {
-            width: 50%;
-            border-radius: 50%;
-            overflow: hidden;
-        }
+.image-container {
+    width: 25%;
+    margin-right: 20px;
+}
 
-        .publication-content {
-            width: 100%;
-            justify-content: left;
-            align-items: left;
-            line-height: 1.2;
-        }
+.publication-image {
+    width: 100%;
+    border-radius: 100%;
+}
 
-        .publication-content p {
-            margin-bottom: 4px; /* Adjust the margin-bottom value as needed */
-        }
+.publication-content {
+    width: 100%;
+    justify-content: left;
+    align-items: left;
+    justify-content: space-between;
+    line-height: 1.2;
+}
 
-        @media (min-width: 600px) {
-            .content {
-                width: 50%;
-            }
+.publication-content p {
+    margin-bottom: 4px; /* Adjust the margin-bottom value as needed */
+}
 
-            .profile img {
-                width: 300px;
-                height: 300px;
-            }
+/* Reducing font size for headings */
+h1 {
+    font-size: 24px; /* Adjust the size as needed */
+}
 
-            .profile {
-                flex-direction: row;
-            }
+h2 {
+    font-size: 20px;
+}
 
-            .profile-links {
-                text-align: left;
-                margin-top: 0;
-                margin-left: 20px;
-            }
+/* Reducing font size for paragraphs */
+p {
+    font-size: 14px;
+}
 
-            .publication-item {
-                flex-direction: row;
-            }
-
-            .image-container {
-                width: 20%;
-                margin-bottom: 0;
-                margin-right: 10px;
-            }
-
-            .publication-image {
-                width: 100%;
-            }
-        }
+li {
+    font-size: 14px;
+}
     </style>
 
 </head>
@@ -116,19 +104,21 @@
     <div class="content">
 
     <div class="profile">
-        <div>
-            <h1>Hello!</h1>
+        <div class="profile-text">
+            <h1 align="center">S. Mahdi H. Miangoleh!</h1>
             <p>I am a <em>Computing Science</em> PhD student at Simon Fraser University (SFU). I do research at <strong>Computational Photography Lab</strong> under the supervision of Prof. <a href="http://yaksoy.github.io/">Yağız Aksoy</a>.</p>
             <p>I got my Master's degree in Computing Science at SFU in <strong>Summer 2022</strong>. My MSc Thesis is on <a href="http://yaksoy.github.io/bmd-msc/"><em>Boosting Monocular Depth Estimation to High Resolution</em></a>.</p>
             <p>Before joining SFU I got my bachelor's degree in Electrical Engineering-Digital Systems at Sharif University of Technology.</p>
-        </div>
-        <div class="profile-image">
-            <img src="mypic2.JPG" alt="Mahdi Miangoleh">
+
             <p class="profile-links">
                 <a href="https://linkedin.com/in/miangoleh">LinkedIn</a>, 
                 <a href="https://scholar.google.ca/citations?user=mqJpOqkAAAAJ&hl=en">Google Scholar</a>, 
                 <a href="https://twitter.com/mahdi_miangoleh">Twitter</a>
             </p>
+            
+        </div>
+        <div class="profile-image">
+            <img src="mypic2.JPG" alt="Mahdi Miangoleh" class="profile-pic">
         </div>   
     </div>
 
