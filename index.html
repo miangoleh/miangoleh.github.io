@@ -107,7 +107,25 @@ strong.pubtitle {
     color: darkblue;
 }
 
-    </style>
+
+@media (max-width: 768px) {
+    .profile {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .profile-image {
+    width: 80%;
+    height: 80%;
+    order: 1
+    }
+
+    .profile-text {
+        order: 2; /* Move text below the image */
+    }
+}
+
+</style>
 
 </head>
 
