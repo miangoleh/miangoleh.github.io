@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mahdi Miangoleh - Research</title>
+    <title>S. Mahdi H. Miangoleh</title>
     <style>
 body {
     display: flex;
@@ -18,6 +18,8 @@ body {
 .content {
     width: 90%;
     max-width: 800px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .profile {
@@ -34,8 +36,8 @@ body {
 }
 
 .profile-image {
-    width: 35%;
-    height: 35%;
+    width: 40%;
+    height: 40%;
 }
 
 .profile-pic {
@@ -54,6 +56,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     margin-bottom: 20px;
+    align-items: center;
 }
 
 .image-container {
@@ -68,15 +71,9 @@ body {
 
 .publication-content {
     width: 100%;
-    justify-content: left;
-    align-items: left;
-    justify-content: space-between;
-    line-height: 1.2;
+    text-align: left;
 }
 
-.publication-content p {
-    margin-bottom: 4px; /* Adjust the margin-bottom value as needed */
-}
 
 /* Reducing font size for headings */
 h1 {
@@ -95,6 +92,21 @@ p {
 li {
     font-size: 14px;
 }
+
+a {
+    font-size: 14px;
+}
+
+
+/* Style for .type2 */
+strong.type2 {
+    font-weight: 600
+}
+
+strong.pubtitle {
+    color: darkblue;
+}
+
     </style>
 
 </head>
@@ -146,14 +158,18 @@ li {
             </a>
         </div>
         <div class="publication-content">
-            <p><strong>Scale-Invariant Monocular Depth Estimation via SSI Depth</strong></p>
-            <p>Proc SIGGRAPH 2024</p>
-            <p><strong>S. Mahdi H. Miangoleh</strong>, Mahesh Reddy, Yağız Aksoy</p>
-            <p>
-                <a href="https://yaksoy.github.io/sidepth/">Project page</a>,
-                <a href="https://yaksoy.github.io/papers/SIG24-SI-Depth.pdf">PDF</a>,
-                <a href="https://github.com/compphoto/sidepth">Github</a>
-            </p>
+            <a>
+            <strong class="pubtitle">Scale-Invariant Monocular Depth Estimation via SSI Depth</strong>
+            <br>
+            <strong>S. Mahdi H. Miangoleh</strong>, Mahesh Reddy, Yağız Aksoy
+            <br>
+            Proc <strong class="type2">SIGGRAPH 2024</strong>
+            <br>
+                <a href="https://yaksoy.github.io/sidepth/">[Project page]</a>
+                <a href="https://yaksoy.github.io/papers/SIG24-SI-Depth.pdf">[PDF]</a>
+                <a href="https://github.com/compphoto/sidepth">[Github]</a>
+
+            </a>
         </div>
     </div>
 
@@ -164,14 +180,18 @@ li {
             </a>
         </div>
         <div class="publication-content">
-            <p><strong>Intrinsic Harmonization for Illumination-Aware Compositing</strong></p>
-            <p>Proc SIGGRAPH Asia 2023</p>
-            <p>Chris Careaga, <strong>S. Mahdi H. Miangoleh</strong>, Yağız Aksoy</p>
-            <p>
-                <a href="https://yaksoy.github.io/intrinsicCompositing/">Project page</a>,
-                <a href="https://yaksoy.github.io/papers/SigAsia23-IntrinsicCompositing.pdf">PDF</a>,
-                <a href="https://github.com/compphoto/IntrinsicCompositing">Github</a>
-            </p>
+            <a>
+            <strong class="pubtitle">Intrinsic Harmonization for Illumination-Aware Compositing</strong>
+            <br>
+            Chris Careaga, <strong>S. Mahdi H. Miangoleh</strong>, Yağız Aksoy
+            <br>
+            Proc <strong class="type2">SIGGRAPH Asia 2023</strong>
+            <br>
+            <a href="https://yaksoy.github.io/intrinsicCompositing/">[Project page]</a>
+            <a href="https://yaksoy.github.io/papers/SigAsia23-IntrinsicCompositing.pdf">[PDF]</a>
+            <a href="https://github.com/compphoto/IntrinsicCompositing">[Github]</a>
+
+            </a>
         </div>
     </div>
 
@@ -182,14 +202,17 @@ li {
             </a>
         </div>
         <div class="publication-content">
-            <p><strong>Realistic Saliency Guided Image Enhancement</strong></p>
-            <p>Proc CVPR 2023</p>
-            <p><strong>S. Mahdi H. Miangoleh</strong>, Zoya Bylinskii, Eric Kee, Eli Shechtman, Yağız Aksoy</p>
-            <p>
-                <a href="http://yaksoy.github.io/realisticEditing/">Project page</a>,
-                <a href="http://yaksoy.github.io/papers/CVPR23-RealisticEditing.pdf">PDF</a>,
-                <a href="https://github.com/compphoto/RealisticImageEnhancement">Github</a>
-            </p>
+            <a>
+            <strong class="pubtitle">Realistic Saliency Guided Image Enhancement</strong>
+            <br>
+            <strong>S. Mahdi H. Miangoleh</strong>, Zoya Bylinskii, Eric Kee, Eli Shechtman, Yağız Aksoy
+            <br>
+            Proc <strong class="type2">CVPR 2023</strong>
+            <br>
+                <a href="http://yaksoy.github.io/realisticEditing/">[Project page]</a>
+                <a href="http://yaksoy.github.io/papers/CVPR23-RealisticEditing.pdf">[PDF]</a>
+                <a href="https://github.com/compphoto/RealisticImageEnhancement">[Github]</a>
+            </a>
         </div>
     </div>
 
@@ -200,14 +223,17 @@ li {
             </a>
         </div>
         <div class="publication-content">
-            <p><strong>Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging</strong></p>
-            <p>Proc CVPR 2021</p>
-            <p><strong>S. Mahdi H. Miangoleh*</strong>, Sebastian Dille*, Long Mai, Sylvain Paris, Yağız Aksoy</p>
-            <p>
-                <a href="http://yaksoy.github.io/highresdepth/">Project page</a>,
-                <a href="http://yaksoy.github.io/papers/CVPR21-HighResDepth.pdf">PDF</a>,
-                <a href="https://github.com/compphoto/BoostingMonocularDepth">Github</a>
-            </p>
+            <a>
+            <strong class="pubtitle">Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging</strong>
+            <br>
+            <strong>S. Mahdi H. Miangoleh*</strong>, Sebastian Dille*, Long Mai, Sylvain Paris, Yağız Aksoy
+            <br>
+            Proc <strong class="type2">CVPR 2021</strong>
+            <br>
+                <a href="http://yaksoy.github.io/highresdepth/">[Project page]</a>
+                <a href="http://yaksoy.github.io/papers/CVPR21-HighResDepth.pdf">[PDF]</a>
+                <a href="https://github.com/compphoto/BoostingMonocularDepth">[Github]</a>
+            </a>
         </div>
     </div>
 
@@ -218,14 +244,17 @@ li {
             </a>
         </div>
         <div class="publication-content">
-            <p><strong>Interactive Editing of Monocular Depth</strong></p>
-            <p>Proc SIGGRAPH POSTER 2022</p>
-            <p>Obumneme Stanley Dukor, <strong>S. Mahdi H. Miangoleh</strong>, Mahesh Kumar Krishna Reddy, Long Mai, Yağız Aksoy</p>
-            <p>
-                <a href="http://yaksoy.github.io/interactiveDepth/">Project page</a>,
-                <a href="http://yaksoy.github.io/papers/SIG22a-interactiveDepth.pdf">PDF</a>,
-                <a href="https://depth-app.netlify.app/editor">Web Application</a>
-            </p>
+            <a>
+            <strong class="pubtitle">Interactive Editing of Monocular Depth</strong>
+            <br>
+            Obumneme Stanley Dukor, <strong>S. Mahdi H. Miangoleh</strong>, Mahesh Kumar Krishna Reddy, Long Mai, Yağız Aksoy
+            <br>
+            Proc <strong class="type2">SIGGRAPH POSTER 2022</strong>
+            <br>
+                <a href="http://yaksoy.github.io/interactiveDepth/">[Project page]</a>
+                <a href="http://yaksoy.github.io/papers/SIG22a-interactiveDepth.pdf">[PDF]</a>
+                <a href="https://depth-app.netlify.app/editor">[Web Application]</a>
+            </a>
         </div>
     </div>
 
@@ -237,13 +266,16 @@ li {
             </a>
         </div>
         <div class="publication-content">
-            <p><strong>Boosting Monocular Depth Estimation to High Resolution</strong></p>
-            <p>MSc Thesis</p>
-            <p><strong>Seyed Mahdi Hosseini Miangoleh</strong></p>
-            <p>
-                <a href="http://yaksoy.github.io/bmd-msc/">Project page</a>,
-                <a href="https://sfu.ca/~smh31/masterthesis">PDF</a>
-            </p>
+            <a>
+            <strong class="pubtitle">Boosting Monocular Depth Estimation to High Resolution</strong>
+            <br>
+            MSc Thesis
+            <br>
+            <strong>Seyed Mahdi Hosseini Miangoleh</strong>
+            <br>
+                <a href="http://yaksoy.github.io/bmd-msc/">[Project page]</a>
+                <a href="https://sfu.ca/~smh31/masterthesis">[PDF]</a>
+            </a>
         </div>
     </div>
 </div>
