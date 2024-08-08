@@ -39,13 +39,19 @@ body {
 .profile-image {
     flex: 1;
     width: 100%;
-    height: 100%;
+    height: auto;
 }
 
 .profile-pic {
+    opacity: 0;
     width: 100%;
-    height: 100%;
-    border-radius: 50%;
+    height: auto;
+    border-radius: 20px;
+    transition: opacity 0.75s ease-in-out;
+}
+
+.profile-pic-loaded {
+    opacity: 1;
 }
 
 .profile-links {
@@ -128,20 +134,6 @@ a:visited:hover {
 
 
 @media (max-width: 768px) {
-    .profile {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .profile-image {
-    width: 80%;
-    height: 80%;
-    order: 1
-    }
-
-    .profile-text {
-        order: 2; /* Move text below the image */
-    }
 
     .publication-content {
     flex:2;
@@ -157,7 +149,24 @@ a:visited:hover {
 
 
 <body>
+
     <div class="content">
+    <div class="profile-image">
+        <img src="mypic2-wide.png" alt="Mahdi Miangoleh" class="profile-pic">
+    </div> 
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const image = document.querySelector('.profile-pic');
+
+            image.addEventListener('load', function() {
+                image.classList.add('profile-pic-loaded');
+            });
+
+            if (image.complete) {
+                image.classList.add('profile-pic-loaded');
+            }
+        });
+    </script>
 
     <div class="profile">
         <div class="profile-text">
@@ -174,10 +183,7 @@ a:visited:hover {
                 <a href="https://linkedin.com/in/miangoleh", title="LinkedIn"><i class="fab fa-linkedin fa-2x"></i></a>
             </p>
             
-        </div>
-        <div class="profile-image">
-            <img src="mypic2.JPG" alt="Mahdi Miangoleh" class="profile-pic">
-        </div>   
+        </div>  
     </div>
 
     <h2>News</h2>
