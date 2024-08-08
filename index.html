@@ -43,16 +43,11 @@ body {
 }
 
 .profile-pic {
-    opacity: 0;
     width: 100%;
     height: auto;
     border-radius: 20px;
-    transition: opacity 0.75s ease-in-out;
 }
 
-.profile-pic-loaded {
-    opacity: 1;
-}
 
 .profile-links {
     text-align: center;
@@ -162,19 +157,6 @@ a:visited:hover {
     <div class="profile-image">
         <img src="mypic2-wide.png" alt="Mahdi Miangoleh" class="profile-pic">
     </div> 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const image = document.querySelector('.profile-pic');
-
-            image.addEventListener('load', function() {
-                image.classList.add('profile-pic-loaded');
-            });
-
-            if (image.complete) {
-                image.classList.add('profile-pic-loaded');
-            }
-        });
-    </script>
 
     <div class="profile">
         <div class="profile-text">
