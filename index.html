@@ -84,6 +84,29 @@ body {
 }
 
 
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 5px;
+}
+
+.date {
+    width: 100px; /* Fixed width for date column */
+    font-size: 14px;
+    flex-shrink: 0; /* Prevent date column from resizing */
+}
+
+li span {
+    font-size: 14px;
+}
+
+
 /* Reducing font size for headings */
 h1 {
     font-size: 32px; /* Adjust the size as needed */
@@ -176,10 +199,32 @@ a:visited:hover {
         </div>  
     </div>
 
-    <h2>News</h2>
+    <!-- <h2>News</h2>
     <p>I started an Internship at <strong>Bosch AI</strong> under <a href="https://yuliangguo.github.io/">Yuliang Guo</a>! (May 2023)</p>
     <p>I graduated with a Master's degree in Computing Science from Simon Fraser University (<a href="http://yaksoy.github.io/bmd-msc/">Thesis</a>)! I will be continuing my studies toward a PhD degree under supervision of Prof. <a href="http://yaksoy.github.io/">Yağız Aksoy</a>. (August 2022)</p>
-    <p>I started an Internship at <strong>Adobe Research</strong> working with <a href="http://zoyathinks.com/">Zoya Bylinskii</a>! (August 2021)</p>
+    <p>I started an Internship at <strong>Adobe Research</strong> working with <a href="http://zoyathinks.com/">Zoya Bylinskii</a>! (August 2021)</p> -->
+
+    <h2>News</h2>
+    <ul>
+        <li>
+            <span class="date">May, 2023</span> 
+            <span>I started an Internship at <strong>Bosch AI</strong> under 
+            <a href="https://yuliangguo.github.io/">Yuliang Guo</a>!</span>
+        </li>
+        <li>
+            <span class="date">Aug, 2022</span> 
+            <span>I graduated with a Master's degree in Computing Science 
+            from Simon Fraser University (<a href="http://yaksoy.github.io/bmd-msc/">Thesis</a>)! 
+            I will be continuing my studies toward a PhD degree under supervision of Prof. 
+            <a href="http://yaksoy.github.io/">Yağız Aksoy</a>.</span>
+        </li>
+        <li>
+            <span class="date">Aug, 2021</span> 
+            <span>I started an Internship at <strong>Adobe Research</strong> 
+            working with <a href="http://zoyathinks.com/">Zoya Bylinskii</a>!</span>
+        </li>
+    </ul>
+    
 
 
     <h2>Research</h2>
