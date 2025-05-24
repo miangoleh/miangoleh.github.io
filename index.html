@@ -38,6 +38,7 @@ body {
     border-radius: 20px;
 }
 
+
 .profile-pic {
     width: 100%;
     height: auto;
@@ -221,7 +222,7 @@ a:visited:hover {
     My research focuses on computational photography, 3D computer vision, learning-based approaches for vision and graphics, and realistic image editing. I also have experience in embedded systems and desktop front-end application development.
     </p>
     
-    <!-- <div class="horizontal-line"></div> -->
+    <div class="horizontal-line"></div>
 
     <div class="publication-item">
         <div class="image-container">
@@ -407,6 +408,16 @@ a:visited:hover {
             </div>
         </div>
     </div>
+
+
+
+<footer>
+    <p id="footer-text" style="text-align: center; margin-top: 20px; font-size: 14px; color: #555;"></p>
+</footer>
+<script>
+    const year = new Date().getFullYear();
+    document.getElementById('footer-text').innerText = `© ${year} Seyed Mahdi Hosseini Miangoleh. All rights reserved.`;
+</script>
 
 </body>
 </html>
