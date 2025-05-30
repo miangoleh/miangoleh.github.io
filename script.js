@@ -1,8 +1,5 @@
 // Ensure the DOM is fully loaded before running the script
 document.addEventListener("DOMContentLoaded", () => {
-    const profilePic = document.querySelector(".profile-pic");
-    profilePic.style.animation = "fadeInScaleUp 0.25s ease-out forwards";
-    
     const year = new Date().getFullYear();
     const footerText = document.getElementById('footer-text');
     footerText.innerText = `© ${year} S. Mahdi H. Miangoleh`;
