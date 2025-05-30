@@ -10,6 +10,17 @@ body {
     animation: fadeInPage 0.5s ease-out forwards;
 }
 
+@keyframes fadeInPage {
+    0% {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
 .content {
     width: 100%;
     max-width: 800px;
@@ -45,17 +56,6 @@ body {
     height: auto;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-}
-
-@keyframes fadeInPage {
-    0% {
-        opacity: 0;
-        transform: scale(0.8);
-    }
-    100% {
-        opacity: 1;
-        transform: scale(1);
-    }
 }
 
 .profile-links {
@@ -166,24 +166,6 @@ a:visited:hover {
     color: orange;
     /* Hover link color */
 }
-
-/* Override the visited link color to be the same as unvisited */
-
-/* .horizontal-spacer {
-    width: calc(100% + 40px);
-    margin-left: -20px;
-    margin-right: -20px;
-    height: 4px;
-    background-color: #ffffff;
-    background-image:
-        linear-gradient(to bottom, rgba(224, 224, 235, 0.75), transparent),
-        linear-gradient(to top, rgba(224, 224, 235, 0.75), transparent);
-    background-repeat: no-repeat;
-    background-size: 100% 2px;
-    background-position: top, bottom;
-    border: none;
-    padding: 0;
-} */
 
 .horizontal-spacer {
     width: calc(100% + 40px);
