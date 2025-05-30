@@ -1,0 +1,209 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f0f0f5;
+    /* Continuous background color */
+}
+
+.content {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #ffffff;
+    /* Section background */
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.section {
+    background-color: #e0e0eb;
+    /* Spacer color */
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px 0;
+    border-radius: 20px;
+}
+
+
+.profile-pic {
+    width: calc(100% + 40px);
+    /* Full width + left/right padding */
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: -20px;
+    /* Remove top margin */
+    display: block;
+    height: auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    opacity: 0;
+    transform: scale(0.8);
+}
+
+@keyframes fadeInScaleUp {
+    0% {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.profile-links {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.profile-links a {
+    margin-right: 15px;
+    /* Adjust the spacing as needed */
+}
+
+.publication-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.image-container {
+    flex: 1;
+    width: 100%;
+    margin-right: 20px;
+}
+
+.publication-content {
+    flex: 4;
+    width: 100%;
+    text-align: left;
+}
+
+.publication-image {
+    width: 100%;
+    border-radius: 30%;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 5px;
+}
+
+.date {
+    width: 100px;
+    /* Fixed width for date column */
+    font-size: 14px;
+    flex-shrink: 0;
+    /* Prevent date column from resizing */
+}
+
+li span {
+    font-size: 14px;
+}
+
+
+/* Reducing font size for headings */
+h1 {
+    font-size: 32px;
+    /* Adjust the size as needed */
+    font-weight: 600
+}
+
+h2 {
+    font-size: 20px;
+}
+
+/* Reducing font size for paragraphs */
+p {
+    font-size: 14px;
+}
+
+/* Style for .type2 */
+strong.type2 {
+    font-weight: 600
+}
+
+strong.pubtitle {
+    color: navy;
+}
+
+a {
+    font-size: 14px;
+    color: #0000EE;
+    /* Change this to the color you prefer */
+}
+
+a:visited {
+    color: #0000EE;
+    /* Same color as the unvisited link */
+}
+
+/* This will style the links when hovered over */
+a:hover {
+    color: orange;
+    /* Hover link color */
+}
+
+a:visited:hover {
+    color: orange;
+    /* Hover link color */
+}
+
+/* Override the visited link color to be the same as unvisited */
+
+/* .horizontal-spacer {
+    width: calc(100% + 40px);
+    margin-left: -20px;
+    margin-right: -20px;
+    height: 4px;
+    background-color: #ffffff;
+    background-image:
+        linear-gradient(to bottom, rgba(224, 224, 235, 0.75), transparent),
+        linear-gradient(to top, rgba(224, 224, 235, 0.75), transparent);
+    background-repeat: no-repeat;
+    background-size: 100% 2px;
+    background-position: top, bottom;
+    border: none;
+    padding: 0;
+} */
+
+.horizontal-spacer {
+    width: calc(100% + 40px);
+    /* Overwrite .content padding */
+    margin-left: -20px;
+    margin-right: -20px;
+    height: 4px;
+    background-color: #ffffff;
+    border: none;
+    padding: 0;
+}
+
+@media (max-width: 768px) {
+
+    .publication-content {
+        flex: 2;
+        width: 100%;
+        text-align: left;
+    }
+
+}
