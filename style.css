@@ -48,10 +48,10 @@ body {
 
 .section {
     padding-top: 10px;
-    padding-bottom: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
-    margin: 20px 0;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 8px 0;
     border-radius: 20px;
     background: var(--bg-section);
     box-shadow: var(--shadow-l);
@@ -152,13 +152,17 @@ li span {
 h1 {
     font-size: 32px;
     /* Adjust the size as needed */
-    font-weight: 600;
+    font-weight: 550;
     text-shadow: var(--shadow-t);
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 15px;
+    font-weight: 500;
     text-shadow: var(--shadow-t);
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 5px;
 }
 
 /* Reducing font size for paragraphs */
