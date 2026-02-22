@@ -179,7 +179,7 @@ strong.type2 {
 
 strong.pubtitle {
     color: navy;
-    text-shadow: var(--shadow-t);
+    font-style: italic;
 }
 
 a {
