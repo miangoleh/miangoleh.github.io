@@ -66,7 +66,7 @@ body {
     margin: 8px 0;
     background: var(--bg-section);
     box-shadow: var(--shadow-l);
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 
@@ -116,6 +116,8 @@ body {
 .publication-image {
     width: 100%;
     border-radius: 30%;
+    box-shadow: var(--shadow);
+    /* border: solid 2px hsla(0, 0%, 0%, 0.05); */
 }
 
 .linkicons-container {
