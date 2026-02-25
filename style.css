@@ -120,6 +120,14 @@ body {
     /* border: solid 2px hsla(0, 0%, 0%, 0.05); */
 }
 
+.experience-image {
+    width: 75%;
+    border-radius: 30%;
+    box-shadow: var(--shadow);
+    /* border: solid 2px hsla(0, 0%, 0%, 0.05); */
+}
+
+
 .linkicons-container {
     margin-top: 5px;
     margin-bottom: 5px;
